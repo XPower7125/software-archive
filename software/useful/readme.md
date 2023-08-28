@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Useful software
-parent: Bootlegs
+parent: software
 nav_order: 2
 ---
 
