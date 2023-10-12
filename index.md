@@ -1,1 +1,1 @@
-# XPower7125ìs software archive
+# XPower7125's software archive
